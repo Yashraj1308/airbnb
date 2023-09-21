@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image: url(https://wallpapers.com/images/hd/professional-background-4b31fgiuezafrguu.jpg); */
+   background-repeat: no-repeat;
+   background-size: auto;
+}
+.main{
+ display: flex;
+ justify-content: center;
+ margin-top: 30px;
+
+
+}
+#Register{
+    /* display: flex; */
+
+   /* justify-content: center;
+   margin-top: 50px;
+   height: 400px; */
+   width: 350px;
+   height: 650px;
+   align-items: center;
+   justify-content: center;
+   /* background-color: red; */
+ 
+}
+.Signup{
+    display: flex;
+    justify-content: center;
+    margin: 30PX;
+}
+.inputText{
+    width: 350px;
+    padding: 13px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px;
+    background-color: rgb(232,232,232);
+    border: none;
+    border-radius: 3px;
+}
+.city{
+    
+}
+.inputSection{
+    margin-top: 15px;
+}
+.inputSec{
+    margin-top: 10px;
+}
+.inputText-BTN{
+    align-items: center;
+    /* justify-content: center; */
+    /* display: flex; */
+    width: 350px;
+    padding: 20px;
+   border-radius: 4px;
+   border: none;
+   background-color: rgb(211,63,143);
+   gap: 30px;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 300;
+}
+.FOOTER{
+    margin-top: 10px;
+}

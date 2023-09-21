@@ -1,0 +1,54 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: auto;
+  height: 100px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  
+}
+  
+
+.logo {
+  width: 150px;
+  height: 50px;
+  margin: 20px;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 80px;
+  list-style-type: none;
+}
+.right {
+  display: flex;
+  margin: 20x;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  /* border: 1px gray solid; */
+  border-radius: 50px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.left-bar {
+  width: 40px;
+  height: 40px;
+ 
+}
+
+/* ----------login css---------- */
